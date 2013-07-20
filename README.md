@@ -1,0 +1,4 @@
+ConferencePG
+============
+
+PhoneGap conference app
